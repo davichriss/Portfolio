@@ -1,0 +1,77 @@
+nav {
+     gap: 50px;
+background-color: yellowgreen;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: justify;
+display: flex;
+position: relative;
+justify-content: space-between;
+
+}
+nav ul li{
+   
+    display: inline-block;
+    padding: 0 20px;
+    
+}
+
+body{
+    background-image: url(../images/OIP.nhK_qH5DB44wL2o38Cw5MQHaE7.jpeg);
+    background-size: 100%;
+        color: black;
+        font-size: large;
+         background-repeat: no-repeat;
+        width: 100%;
+        height: auto;
+        
+        
+    }
+    .logo {
+        font-weight: 1000;
+        font-size: x-large;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    }
+    div {
+    
+    align-items: center;
+    padding: 0.5%;
+    
+    }
+    h1 {
+        font-weight: 800;
+        align-content: center;
+    }
+    .intro {
+        padding: 100px 150px;
+    display: flex;
+    justify-content: center;
+    
+    
+    }
+    .intro p {
+       width: 600px;
+       line-height: 30px;
+       color: beige;
+    }
+    .p1 {
+        color: white;
+        font-weight: bold;
+    }
+    section > .image1 > .image2 {
+        border-radius: 50%;
+        
+    }
+    .bottom {
+        text-align: center;
+        padding: 50px 100px;
+    background-color: black;
+    font-weight: 900;
+    }
+    .bottom p {
+        font-size: xx-large;
+        color: rgb(31, 28, 25);
+    }
+    .bottom div {
+        color: rgb(31, 28, 25);
+    }

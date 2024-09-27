@@ -1,0 +1,64 @@
+nav {
+padding-left: 300px;
+    gap: 50px;
+    background-color: yellowgreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: justify;
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    padding-left: 650px;
+    padding-bottom: 28px;
+font-size: 20px;
+
+}
+
+nav ul li {
+
+    display: inline-block;
+    padding: 0 15px;
+
+}
+
+body {
+    background-image: url("../images/OIP.nhK_qH5DB44wL2o38Cw5MQHaE7.jpeg");
+    background-size: 100%;
+    
+    text-align: center;
+    background-color: gray;
+
+    font-size: xx-large;
+
+}
+
+body h2 {
+    font-weight: bold;
+    color: green;
+}
+
+section {
+    display: flex;
+    padding-left: 300px;
+
+}
+
+.img {
+    padding-left: 90px;
+    padding-top: px;
+
+}
+section > .img > .img1 {
+    border-radius: 50%;
+}
+
+
+.para {
+    font-weight: bold;
+    background-color: beige;
+    border-radius: 50%;
+    text-align: center;
+    width: 400px;
+    padding-top: 60px;
+   
+
+}
